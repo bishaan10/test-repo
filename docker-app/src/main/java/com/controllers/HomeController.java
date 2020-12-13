@@ -10,6 +10,6 @@ public class HomeController {
 	@GetMapping("/home/test")
 	@ResponseBody
 	public String test() {
-		return "success23";
+		return "success234";
 	}
 }
